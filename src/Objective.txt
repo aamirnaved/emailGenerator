@@ -1,0 +1,9 @@
+Scenario :
+You are part of a start-up and assigned a task to build a software to create email accounts for new hire.
+
+You app must do the following task:
+1. Generate an email with the following syntax: firstname.lastname@department.company.name
+2. Determine the departement(sales, develpoment, accounting,) if none leave blank
+3. Genrate random string for password
+4. Have set methods to change the password, set the mailbox capacity, and define an alternate email address,
+5. Have get methods to display the name, email, and mailbox capacity.
